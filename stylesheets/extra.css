@@ -1,9 +1,9 @@
-/* === General page style === */
+/* === Page background & font === */
 .md-content {
-  background-color: #ffffff; /* white background like Wikipedia */
-  font-family: "Georgia", serif; 
+  background-color: #ffffff;
+  font-family: "Georgia", serif;
   color: #202122;
-  max-width: 960px; /* similar content width to Wikipedia */
+  max-width: 960px;
   margin: auto;
   padding: 2rem;
 }
@@ -18,7 +18,7 @@
 
 .md-content h1 {
   font-size: 2em;
-  border-bottom: 1px solid #a2a9b1; /* like Wikipedia */
+  border-bottom: 1px solid #a2a9b1;
   padding-bottom: 0.3em;
 }
 
@@ -42,7 +42,7 @@ a:hover {
   padding: 1rem;
 }
 
-/* === Images / Ads styling === */
+/* === Images / Ads === */
 img {
   max-width: 100%;
   height: auto;
@@ -51,18 +51,16 @@ img {
   margin: 1em 0;
 }
 
-/* === Tables styling (like Wikipedia tables) === */
+/* === Tables like Wikipedia === */
 table {
   border-collapse: collapse;
   width: 100%;
   margin: 1em 0;
 }
-
 th, td {
   border: 1px solid #a2a9b1;
   padding: 0.5em;
 }
-
 th {
   background-color: #f8f9fa;
 }
@@ -72,4 +70,18 @@ th {
   margin-top: 2rem;
   padding-top: 1rem;
   border-top: 1px solid #a2a9b1;
+}
+
+/* === Code blocks === */
+code {
+  font-family: "Courier New", monospace;
+  background-color: #f8f9fa;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
+/* === Remove Material-specific colors === */
+.md-header, .md-footer, .md-tabs {
+  background: none;
+  color: #202122;
 }

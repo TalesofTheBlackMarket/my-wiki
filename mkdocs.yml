@@ -1,6 +1,7 @@
 site_name: Fakepedia
 site_description: A parody encyclopedia
 site_url: https://talesoftheblackmarket.github.io/my-wiki/
+
 theme:
   name: material
   features:
@@ -14,5 +15,10 @@ theme:
   font:
     text: "Georgia"
     code: "Courier New"
+
 extra_css:
   - stylesheets/extra.css
+
+extra:
+  social: [] 
+  copyright: ""   

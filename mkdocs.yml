@@ -1,6 +1,6 @@
 site_name: Fakepedia
 site_description: A parody encyclopedia
-site_url: site_url: https://talesoftheblackmarket.github.io/my-wiki/
+site_url: https://talesoftheblackmarket.github.io/my-wiki/
 theme:
   name: material
   features:
@@ -16,14 +16,3 @@ theme:
     code: "Courier New"
 extra_css:
   - stylesheets/extra.css
-
-nav:
-  - Main Page: index.md
-  - Articles:
-      - History of Karakura: karakura.md
-  - Ads: ads.md
-
-markdown_extensions:
-  - footnotes
-  - toc:
-      permalink: true

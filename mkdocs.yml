@@ -1,1 +1,29 @@
-site_name: My Docs
+site_name: Fakepedia
+site_description: A parody encyclopedia
+site_url: site_url: https://talesoftheblackmarket.github.io/my-wiki/
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - search.highlight
+    - search.suggest
+  palette:
+    scheme: default
+  font:
+    text: "Georgia"
+    code: "Courier New"
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Main Page: index.md
+  - Articles:
+      - History of Karakura: karakura.md
+  - Ads: ads.md
+
+markdown_extensions:
+  - footnotes
+  - toc:
+      permalink: true

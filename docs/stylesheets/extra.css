@@ -1,0 +1,30 @@
+/* Background + font */
+.md-content {
+  background: #f8f9fa;
+  font-family: "Georgia", serif;
+  color: #202122;
+}
+
+/* Article headings */
+.md-content h1 {
+  border-bottom: 1px solid #a2a9b1;
+  font-size: 1.8em;
+  margin-bottom: 0.5em;
+}
+
+/* Sidebar like Wikipedia’s TOC */
+.md-sidebar {
+  background: #ffffff;
+  border-right: 1px solid #a2a9b1;
+}
+
+/* Links blue like Wikipedia */
+a {
+  color: #0645ad;
+}
+a:visited {
+  color: #0b0080;
+}
+a:hover {
+  color: #3366cc;
+}

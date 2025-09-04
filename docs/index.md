@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# Welcome to Fakepedia
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Fakepedia is a parody encyclopedia, written and illustrated for this interactive project.  
 
-## Commands
+Explore articles, satire, and fake ads across the site.  
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+---
 
-## Project layout
+## Featured Article
+- [History of Karakura](karakura.md)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+---
+
+![Fake Ad](https://via.placeholder.com/468x60?text=Your+Fake+Ad+Here)

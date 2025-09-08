@@ -22,3 +22,10 @@ extra_css:
 extra:
   social: [] 
   copyright: ""   
+  
+  
+ nav:
+  - Home: index.md
+  - Articles:
+      - Karakura Island: docs/karakura.md
+      - Teppei Momosaki: docs/teppeimomosaki.md

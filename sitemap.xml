@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://talesoftheblackmarket.github.io/my-wiki/</loc>
-         <lastmod>2025-09-04</lastmod>
+         <lastmod>2025-09-08</lastmod>
     </url>
     <url>
          <loc>https://talesoftheblackmarket.github.io/my-wiki/ads/</loc>
-         <lastmod>2025-09-04</lastmod>
+         <lastmod>2025-09-08</lastmod>
     </url>
     <url>
          <loc>https://talesoftheblackmarket.github.io/my-wiki/karakura/</loc>
-         <lastmod>2025-09-04</lastmod>
+         <lastmod>2025-09-08</lastmod>
+    </url>
+    <url>
+         <loc>https://talesoftheblackmarket.github.io/my-wiki/teppeimomosaki/</loc>
+         <lastmod>2025-09-08</lastmod>
     </url>
 </urlset>
